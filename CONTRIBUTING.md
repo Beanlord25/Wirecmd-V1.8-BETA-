@@ -24,7 +24,7 @@ Otherwise, check what the error says.
 ### Getting Help
 
 If you're still having issues:
-1. Search existing [issues](https://github.com/username/repo/issues)
+1. Search existing [issues](https://github.com/Beanlord25/Wirecmd-BETA-/issues)
 2. Create a new issue with detailed information
 
 
