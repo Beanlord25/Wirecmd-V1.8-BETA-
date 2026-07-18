@@ -73,7 +73,7 @@ A: Yes, the GPL license allows commercial use.
 ### Technical Questions
 
 **Q: How do I contribute?**
-A: See our [Contributing Guide](#contributing) for detailed instructions.
+A: See our [Contributing Guide](https://github.com/Beanlord25/Wirecmd-BETA-/blob/1ac64d04daf540c57109705018e2fe4db7ebf414/CONTRIBUTING.md) for detailed instructions.
 
 **Q: How do I report a bug?**
 A: Please create an issue on GitHub with a detailed description and reproduction steps.
